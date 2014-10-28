@@ -1,7 +1,7 @@
 {
   "name": "ffl-utils",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fantasy Film League Utilities",
   "main": "index.js",
   "scripts": {
