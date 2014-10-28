@@ -1,2 +1,4 @@
+'use strict';
+
 var requireByDir = require('./lib/requireByDir');
-requireByDirectory(__filename, __dirname, exports);
+requireByDir(__filename, __dirname, exports);
